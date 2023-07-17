@@ -9,7 +9,6 @@ public:
            }
            else{
                count = max(count,j);
-               cout<<count<<" "<<j<<endl;
                j = 0;
            }
        } 
